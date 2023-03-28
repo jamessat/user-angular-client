@@ -1,8 +1,8 @@
 # AngularClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
-It is based on the tutorial found here:
-https://www.baeldung.com/spring-boot-angular-web
+
+It is based on the tutorial found here: https://www.baeldung.com/spring-boot-angular-web
 
 ## Development server
 
